@@ -1,0 +1,10 @@
+name: Nickname
+main: com.mrmatches.nickname.Nickname
+version: 0.0.1
+authors: [MrMatchesExMark]
+description: Easy prefixes & suffixes
+softdepend: [Vault]
+commands:
+    nickname:
+        description:
+        usage: "/nickname"
